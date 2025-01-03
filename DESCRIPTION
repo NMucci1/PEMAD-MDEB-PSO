@@ -1,0 +1,15 @@
+Package: PEMADMDEBPSO
+Title: Data Package with Community Offshore Wind PSO Data
+Version: 0.0.0.9000
+Authors@R: 
+    person("Nicole", "Mucci", , "nicole.mucci@noaa.gov", role = c("aut", "cre"))
+Description: This is a data package containing data from the Community Offshore Wind Development Project (2023). This is data from the High Resolution Geophysical Survey Protected Species Observer Final Report 2023.
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends: 
+    R (>= 3.5)
+LazyData: true
+Imports: 
+    tibble
